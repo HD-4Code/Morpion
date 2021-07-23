@@ -6,4 +6,4 @@ Le plateau de jeu est composé de 9 cases, chacune désignée par sa position ve
 * Les joueurs jouent à tour de rôle jusqu'à que l'un d'eux gagne ou que le plateau de jeu soit rempli ;
 * Le programme doit détecter la fin de la partie. Si un joueur gagne, le jeu annonce son nom. S'il y a match nul, le programme doit en informer les deux joueurs ;
 * À la fin d'une partie, le programme doit proposer de lancer une nouvelle partie.
-# 22juillet2021
+
